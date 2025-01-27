@@ -6,7 +6,7 @@
 
 本杂志开源（GitHub: [lgl88911/Zephyr_Fans_Monthly](https://github.com/lgl88911/Zephyr_Fans_Monthly)），欢迎提交 issue，投稿或推荐Zephyr内容。
 
-## 发刊词
+本月刊会同步发布到[个人博客](https://lgl88911.pages.dev/)和[微信公众号](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU1ODI3MzQ1MA==&action=getalbum&album_id=3831472196313628672#wechat_redirect)
 
 
 ## 2025
