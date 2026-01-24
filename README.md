@@ -8,6 +8,9 @@
 
 本月刊会同步发布到[个人博客](https://lgl88911.pages.dev/)和[微信公众号](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU1ODI3MzQ1MA==&action=getalbum&album_id=3831472196313628672#wechat_redirect)
 
+## 2026
+
+- 第 13 期：[202601](docs/2026/1/1.md)
 
 ## 2025
 
