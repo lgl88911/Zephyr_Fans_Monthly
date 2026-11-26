@@ -1,3 +1,9 @@
 .vscode
 .marscode
 .workbuddy
+
+# npm 安装的依赖及清单，不随脚本提交
+node_modules/
+package.json
+package-lock.json
+npm-debug.log*
